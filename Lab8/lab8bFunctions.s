@@ -1,5 +1,5 @@
 //
-//  lab8functions.s
+//  lab8bFunctions.s
 //  
 //
 //  Created by Oliver Jaros on 5/28/20.
